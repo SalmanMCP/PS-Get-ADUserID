@@ -12,7 +12,7 @@ This PowerShell function is designed to manage AD User ID
 
 To execute the funcation correctly, first, open PowerShell with administrative privileges, often referred to as "elevated mode." Then, input the command:
 
-Import-Module Get-ADUserID.ps1
+'Import-Module Get-ADUserID.ps1'
 
 After successfully importing the module, you can run the function by typing `Get-ADID`. This command should present you with a menu that includes options:
 1. Get ID Status
