@@ -1,10 +1,10 @@
 # PS-Get-ADUserID
-PowerShell function for AD User ID Operations
+PowerShell function for AD User ID Operations <br />
+Version 1.07 <br />
+Last updated 03:30 PM 23/03/2024 <br />
 
-Version 1.07 | Last updated 03:30 PM 23/03/2024
 
-
-This PowerShell function is designed to manage AD User ID
+## This PowerShell function is designed to manage AD User ID
 
 
 To execute the funcation correctly, first, open PowerShell with administrative privileges, often referred to as "elevated mode." Then, input the command:
