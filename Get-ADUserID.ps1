@@ -1,7 +1,7 @@
     # PowerShell function for AD User ID Operations
-    # Version 1.06
+    # Version 1.07
     # Written by Salman Ahmed
-    # Last updated 03:30 PM 15/03/2024
+    # Last updated 03:30 PM 23/03/2024
     # This PowerShell function is designed to manage AD User ID
 
 
