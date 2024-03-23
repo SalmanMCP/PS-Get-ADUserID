@@ -1,6 +1,8 @@
 # PS-Get-ADUserID
 PowerShell function for AD User ID Operations <br />
 Version 1.07 <br />
+Written by: [Ahmed Salman](https://www.salmantec.com)
+
 Last updated 03:30 PM 23/03/2024 <br />
 
 
